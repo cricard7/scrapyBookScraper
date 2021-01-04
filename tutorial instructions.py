@@ -10,3 +10,8 @@
 
 #https://devhints.io/xpath
 
+# once spider has a yield statement we can output the file
+
+#scrapy crawl spidername -o fileName.json
+#scrapy crawl spidername -o fileName.csv
+#scrapy crawl spidername -o fileName.xml
